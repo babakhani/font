@@ -131,8 +131,16 @@
     },
     {
       "name": "theatre-mode",
-      "svg": "theatre-view-icon.svg",
+      "svg": "ic_crop_16_9_black_24px.svg",
       "root-dir": "./custom-icons/custom-svg/"
+    },
+    {
+      "name": "fast-forward",
+      "svg": "av/svg/production/ic_fast_forward_48px.svg"
+    },
+    {
+      "name": "fast-rewind",
+      "svg": "av/svg/production/ic_fast_rewind_48px.svg"
     }
   ]
 }
