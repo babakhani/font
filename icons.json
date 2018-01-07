@@ -141,6 +141,10 @@
     {
       "name": "fast-rewind",
       "svg": "av/svg/production/ic_fast_rewind_48px.svg"
+    },
+    {
+      "name": "block",
+      "svg": "content/svg/production/ic_block_48px.svg"
     }
   ]
 }
