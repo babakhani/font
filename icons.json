@@ -84,7 +84,8 @@
     },
     {
       "name": "cancel",
-      "svg": "navigation/svg/production/ic_cancel_48px.svg"
+      "svg": "cancel.svg",
+      "root-dir": "./custom-icons/fontawesome/"
     },
     {
       "name": "replay",
@@ -145,6 +146,11 @@
     {
       "name": "block",
       "svg": "content/svg/production/ic_block_48px.svg"
+    },
+    {
+      "name": "back",
+      "svg": "skip-track.svg",
+      "root-dir": "./custom-icons/"
     }
   ]
 }
